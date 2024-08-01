@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-19T16:29:33 IST" name="Default suite" finished-at="2024-06-19T16:31:24 IST" duration-ms="111141">
+    <groups>
+    </groups>
+    <test started-at="2024-06-19T16:29:33 IST" name="Default test" finished-at="2024-06-19T16:31:24 IST" duration-ms="111141">
+      <class name="tests.End_To_End_Extent_Report">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.End_To_End_Extent_Report@6c40365c]" started-at="2024-06-19T16:29:27 IST" name="setUp" finished-at="2024-06-19T16:29:33 IST" duration-ms="5565" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginFuctionality()[pri:0, instance:tests.End_To_End_Extent_Report@6c40365c]" started-at="2024-06-19T16:29:33 IST" name="loginFuctionality" finished-at="2024-06-19T16:29:39 IST" duration-ms="6373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFuctionality -->
+        <test-method signature="categoriesDisplayed()[pri:1, instance:tests.End_To_End_Extent_Report@6c40365c]" started-at="2024-06-19T16:29:39 IST" name="categoriesDisplayed" finished-at="2024-06-19T16:29:44 IST" duration-ms="5188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- categoriesDisplayed -->
+        <test-method signature="navigateToNextPage()[pri:2, instance:tests.End_To_End_Extent_Report@6c40365c]" started-at="2024-06-19T16:29:44 IST" name="navigateToNextPage" finished-at="2024-06-19T16:30:00 IST" duration-ms="15256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToNextPage -->
+        <test-method signature="contactDemo()[pri:3, instance:tests.End_To_End_Extent_Report@6c40365c]" started-at="2024-06-19T16:30:00 IST" name="contactDemo" finished-at="2024-06-19T16:30:07 IST" duration-ms="6859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactDemo -->
+        <test-method signature="addCartDemo()[pri:4, instance:tests.End_To_End_Extent_Report@6c40365c]" started-at="2024-06-19T16:30:07 IST" name="addCartDemo" finished-at="2024-06-19T16:30:29 IST" duration-ms="22650" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCartDemo -->
+        <test-method signature="deleteItemFromCart()[pri:5, instance:tests.End_To_End_Extent_Report@6c40365c]" started-at="2024-06-19T16:30:29 IST" name="deleteItemFromCart" finished-at="2024-06-19T16:30:32 IST" duration-ms="3237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteItemFromCart -->
+        <test-method signature="checkoutProcess()[pri:6, instance:tests.End_To_End_Extent_Report@6c40365c]" started-at="2024-06-19T16:30:32 IST" name="checkoutProcess" finished-at="2024-06-19T16:31:13 IST" duration-ms="40290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutProcess -->
+        <test-method signature="testInvalidLogin()[pri:7, instance:tests.End_To_End_Extent_Report@6c40365c]" started-at="2024-06-19T16:31:13 IST" name="testInvalidLogin" finished-at="2024-06-19T16:31:20 IST" duration-ms="7289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInvalidLogin -->
+        <test-method signature="testGetStatusCode_CartPage()[pri:8, instance:tests.End_To_End_Extent_Report@6c40365c]" started-at="2024-06-19T16:31:20 IST" name="testGetStatusCode_CartPage" finished-at="2024-06-19T16:31:23 IST" duration-ms="3187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetStatusCode_CartPage -->
+        <test-method signature="testGetStatusCode_Home_Page()[pri:9, instance:tests.End_To_End_Extent_Report@6c40365c]" started-at="2024-06-19T16:31:23 IST" name="testGetStatusCode_Home_Page" finished-at="2024-06-19T16:31:24 IST" duration-ms="706" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGetStatusCode_Home_Page -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.End_To_End_Extent_Report@6c40365c]" started-at="2024-06-19T16:31:24 IST" name="tearDown" finished-at="2024-06-19T16:31:25 IST" duration-ms="1395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.End_To_End_Extent_Report -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
